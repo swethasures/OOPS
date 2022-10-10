@@ -19,4 +19,4 @@ Swapping - Call by value
 
 Total no of programs : 15
 completed no of programs : 14
-*ALL PROGRAMS IS DONE IN DEV C++*
+*ALL PROGRAMS DONE IN DEV C++*
